@@ -1,0 +1,8 @@
+ssh-keygen -C "hall.hu@hand-china.com" -t rsa
+
+
+
+git remote add origin git://github.com/hallhu/cloudhand.git
+
+
+git remote add origin git@github.com:hallhu/cloudhand.git
