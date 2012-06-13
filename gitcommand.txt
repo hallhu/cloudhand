@@ -8,3 +8,4 @@ git remote add origin git://github.com/hallhu/cloudhand.git
 git remote add origin git@github.com:hallhu/cloudhand.git
 
 add new
+add new2
